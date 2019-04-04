@@ -39,6 +39,15 @@ html {
         font-size: calc(16px + 6vw);
     }
 }
+/* project add view */
+form ul li.category {
+    display: inline-block;
+    background-color: #FFFFFF;
+    padding: 5px 10px;
+    margin-right: 5px;
+}
+
+
 /* project detail expenses */
 
 .section-expenses button {
